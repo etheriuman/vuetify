@@ -293,6 +293,8 @@ export const VField = defineComponent({
       inputRef,
       controlRef,
       fieldRef,
+      focus,
+      blur,
     }
   },
 })
